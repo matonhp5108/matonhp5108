@@ -9,7 +9,6 @@ Hi, I'm Evaan. I am a high school student in the IB program, building things wit
 
 - Building products across web apps, tools, and real client sites
 - Interested in shipping fast, clean UI, and useful software
-- Current portfolio highlights include Peylo, DocGress, SQ Auto Detailing, and JEC Hacks
 
 ## Tech Stack
 
