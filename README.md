@@ -1,6 +1,6 @@
 # Evaan Chowdhry
 
-Hi, I'm Evaan. I am a high school student in the IB program, building things with code since 2020.
+Hi, I'm Evaan. I am a high school student in the IB program, building things with code since 2020 (new acc).
 
 - Portfolio: [evaanchowdhry.site](https://evaanchowdhry.site)
 - Email: [evaanchowdhry@gmail.com](mailto:evaanchowdhry@gmail.com)
