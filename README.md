@@ -1,7 +1,7 @@
 # Evaan Chowdhry
 
 Hi, I'm Evaan. I am a high school student in the IB program, building things with code since 2020.
-You might notice this account is fairly new for someone coding for that long, truth is I lost access to my old GitHub account because I lost it's 2fa codes.
+You might notice this account is fairly new for someone coding for that long; this is my new account because I lost my old one's 2fa codes
 
 - Portfolio: [evaanchowdhry.site](https://evaanchowdhry.site)
 - Email: [evaanchowdhry@gmail.com](mailto:evaanchowdhry@gmail.com)
