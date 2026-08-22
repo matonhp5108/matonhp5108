@@ -33,4 +33,4 @@ You might notice this account is fairly new for someone coding for that long; th
 
 ## Hackatime Stats
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=59722&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=59722&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime%20Stats&layout=compact&cache_seconds=0&langs_count=8&hide=Other)
