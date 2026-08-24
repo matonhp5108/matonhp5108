@@ -9,6 +9,8 @@
 <p>
   <a href="https://evaanchowdhry.site">Portfolio</a>
   •
+  <a href="https://github.com/Phantom8015">Old Account</a>
+  •
   <a href="mailto:evaanchowdhry@gmail.com">Email</a>
 </p>
 
@@ -43,7 +45,7 @@
 <h2>Hackatime Stats</h2>
 
 <img
-  src="https://github-readme-stats.hackclub.dev/api/wakatime?username=59722&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime%20Stats&layout=compact&cache_seconds=0&langs_count=8&hide=Other"
+  src="https://github-readme-stats.hackclub.dev/api/wakatime?username=59722&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime%20Stats&layout=compact&cache_seconds=0&langs_count=8"
   alt="Hackatime Stats">
 
 </div>
